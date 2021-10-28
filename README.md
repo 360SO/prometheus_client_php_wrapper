@@ -1,12 +1,12 @@
 prometheus 快速接入包
 ====================
-[![Latest Stable Version](https://poser.pugx.org/imj/prometheus_client_php_wrapper/v/stable)](https://packagist.org/packages/imj/prometheus_client_php_wrapper)
-[![License](https://poser.pugx.org/imj/prometheus_client_php_wrapper/license)](https://packagist.org/packages/imj/prometheus_client_php_wrapper)
+[![Latest Stable Version](https://poser.pugx.org/360so/prometheus_client_php_wrapper/v/stable)](https://packagist.org/packages/360so/prometheus_client_php_wrapper)
+[![License](https://poser.pugx.org/360so/prometheus_client_php_wrapper/license)](https://packagist.org/packages/360so/prometheus_client_php_wrapper)
 
 Installation
 ------------
 ```shell
-composer require imj/prometheus_client_php_wrapper
+composer require 360so/prometheus_client_php_wrapper
 ```
 
 Basic Usage
